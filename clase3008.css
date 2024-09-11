@@ -1,0 +1,13 @@
+nav { 
+    color: aqua;
+    background-color: rgb(170, 168, 168);
+}
+
+#texto {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.parrafo {
+    background-color: rgb(233, 233, 192);
+}
